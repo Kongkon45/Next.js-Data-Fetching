@@ -1,0 +1,41 @@
+{
+    "posts" : [
+        {
+          "id": 1,
+          "title": "The Beauty of Nature",
+          "description": "Experience the serene beauty of nature with its majestic mountains, tranquil lakes, and vibrant flora. Dive into the enchanting world of wilderness and find peace in its untouched landscapes.",
+          "likesCount": 120
+        },
+        {
+          "id": 2,
+          "title": "Journey to Unknown Lands",
+          "description": "Embark on an exhilarating journey to discover unexplored lands and hidden treasures. Let your adventurous spirit soar as you traverse through mysterious terrains and ancient civilizations.",
+          "likesCount": 95
+        },
+        {
+          "id": 3,
+          "title": "Gourmet Delights Around the World",
+          "description": "Savor the exquisite flavors of global cuisines with our culinary adventures. From spicy street food to decadent desserts, indulge in a gastronomic journey that tantalizes your taste buds.",
+          "likesCount": 150
+        },
+        {
+          "id": 4,
+          "title": "Artistic Expressions",
+          "description": "Immerse yourself in the world of art and creativity. Explore diverse artistic expressions from traditional paintings to contemporary installations, celebrating the boundless creativity of human imagination.",
+          "likesCount": 80
+        },
+        {
+          "id": 5,
+          "title": "Mindful Living for Inner Peace",
+          "description": "Embrace a lifestyle of mindfulness and well-being. Discover practices that nourish your soul, cultivate inner peace, and foster a harmonious connection with yourself and the world around you.",
+          "likesCount": 110
+        },
+        {
+          "id": 6,
+          "title": "Music that Moves the Soul",
+          "description": "Experience the transformative power of music that resonates with your soul. From soulful melodies to rhythmic beats, let the universal language of music inspire and uplift your spirits.",
+          "likesCount": 130
+        }
+      ]
+      
+}
